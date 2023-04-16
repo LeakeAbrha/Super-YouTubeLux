@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+aside{
+float:right;
+font-size:80%;}
+
+body {background-color:#ffa500;
+color:white;
+padding: 100px,50px;
+text-align:left;
+font-size:120%;
+font-family:;
+display:;
+decoration:none;}
+
+
+</style>
+</head>
+<body>
+<aside>
+<p><a href="SVGLogo.html"> ተመለስ</a></p>
+</aside>
+ <h2> <u>Address</u></h1>
+ 
+
+     <p>Axum Saint Yared child care center</p>
+<p>Axum, Tigray, Ethiopia.</p>
+<p> Tabiya kindeya, k-6.</p>
+<p>f677</p>
+<h2><u> <b>Contact</b></u> Us</h2>
+<p> cell phone:093584635</p>
+<p> tolfree:03455678855</p>
+<p> email:l3hfhuhrh@gmail.org</p>
+<h2> <u>Follow</u> Us</h3>
+
+
+<a href="default.asp">
+  <img src="photoes/Fb.png" 
+  style="width:50px;height:47px;">
+</a>
+
+<a href="default.asp">
+  <img src="photoes/wt.jpg" 
+  style="width:49px;height:47px;">
+</a>
+<a href="default.asp">
+  <img src="photoes/you.png" 
+  style="width:50px;height:48px;">
+</a>
+<a href="default.asp">
+  <img src="photoes/ins.jpg" 
+  style="width:46px;height:46px;">
+</a>
+<a href="whattsapp.asp">
+  <img src="photoes/tw.png" 
+  style="width:44px;height:44px;">
+</a>
+<a href="whattsapp.asp">
+  <img src="photoes/tg.jpg" 
+  style="width:44px;height:44px;">
+
+</a>
+</body>
+</html>

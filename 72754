@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h{background-color:lightgray;
+color:black;
+font-size:100%;
+font-family:courier;}
+</head>
+</style>
+<body>
+<h> This is Gallery.</h>
+<img src="photoes/p4.jpg" alt="CoverPhoto"
+style="width:100px; height:100px;">
+
+<img src="photoes/p1.jpg" alt="CoverPhoto"
+style="width:100px; height:100px;">
+
+<img src="photoes/p2.jpg" alt="CoverPhoto"
+style="width:100px; height:100px;">
+
+<img src="photoes/p3.jpg" alt="CoverPhoto"
+style="width:100px; height:100px;">
+
+<img src="photoes/p4.jpg" alt="CoverPhoto"
+style="width:100px; height:100px;">
+
+<img src="photoes/p5.jpg" alt="CoverPhoto"
+style="width:100px; height:100px;">
+
+<img src="photoes/p6.jpg" alt="CoverPhoto"
+style="width:100px; height:100px;">
+
+<img src="photoes/p7.jpg" alt="CoverPhoto"
+style="width:100px; height:100px;">
+
+<img src="photoes/p8.jpg" alt="CoverPhoto"
+style="width:100px; height:100px;">
+
+<img src="photoes/p9.jpg" alt="CoverPhoto"
+style="width:10px; height:100px;">
+
+<img src="photoes/p10.jpg" alt="CoverPhoto"
+style="width:100px; height:100px;">
+
+<img src="photoes/p11.jpg" alt="CoverPhoto"
+style="width:100px; height:100px;">
+
+<img src="photoes/p12.jpg" alt="CoverPhoto"
+style="width:100px; height:100px;">
+
+<img src="photoes/p15.jpg" alt="CoverPhoto"
+style="width:100px; height:10px;">
+
+<img src="photoes/p16.jpg" alt="CoverPhoto"
+style="width:10px; height:100px;">
+
+<img src="photoes/l3.jpg" alt="CoverPhoto"
+style="width:100px; height:100px;">
+
+<img src="photoes/l2.jpg" alt="CoverPhoto"
+style="width:100px; height:100px;">
+
+<img src="photoes/l1.jpg" alt="CoverPhoto"
+style="width:100px; height:100px;">
+
+<img src="photoes/p13.jpg" alt="CoverPhoto"
+style="width:100px; height:100px;">
+
+<img src="photoes/p14.jpg" alt="CoverPhoto"
+style="width:100px; height:100px;">
+</body>
+</html>
