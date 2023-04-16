@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+
+
+ul { list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:lightgray;
+  font-size:90%;}
+  
+  li { float: left;}
+  li a {display: block black;
+  color: green;
+  font-size:150%;}
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;}
+  
+  
+.note {
+  font-size: 100%;
+  color: blue;
+}
+
+h1{ background-color: lightblue;
+  color: black;
+  padding: 0px;
+  text-align: left;
+  font-size:120%;}
+  
+  p11{background-color:hsl(240,100%,50%);
+  color:white;
+  padding: 1px;
+  text-align:left;
+  font-size:80%;
+  border:;}
+  }
+  p0{background-color:white;
+  color:none;
+  padding: 2px;
+  text-align:center;}
+  Li{background-color:white;
+  color:green;
+  padding: 2px;
+  text-align:left;
+  font-size:70%;
+  font-family:courier;
+  margin:10px;}
+
+ p20{background-color:#ff44336;
+  color:white;
+  padding: 15px,25px;
+  text-align:center;
+  font-size:100%;
+  font-family:courier;
+  display:inline-block;
+  decoration:bold;
+  }
+  p25{ font-size:30;
+  color:green;
+  text-align:left;}
+  p24{font-size:50;
+  text-align:right;
+ color:green;}
+  .city {
+  background-color:none;
+  color: black;
+  border: 50px ;
+  margin: 5px;
+  padding: 1px;
+  font-size:70%;
+  text-align:left;
+  } 
+  
+  aside {
+  width: 20%;
+  padding-left: 15px;
+  margin-left: 8px;
+  float: right;
+  font-style: italic;
+  background-color: lightgray;}
+  
+  aside1{
+  width: 90%;
+  padding-left: 2px;
+  margin-left: 0px;
+  float: right;
+  font-style: Arial;
+  font-size:65%;
+  background-color:none;}
+  p19{background-color:none;
+  padding-left: 2px;
+  margin-left: 0px;
+  font-size: 70%;
+  font-style: Arial;}
+  
+  p90{
+  background-color:#0000ff;
+  border: 20px ;
+  color:gray;
+  float:center;
+  margin:10px;
+  } 
+  
+ 
+  
+  
+  
+  </style>
+  </head>
+  
+<body>
+
+
+
+
+
+<h1 id="myHeader">ቅ/ ያሬድ ህፃናት መሐብሐቢ ማእከል
+ ኣኩሱም Axum Saint Yared child Care Center</h1>
+<img src="photoes/nice.jpg" alt="CoverPhoto"
+style="width:360px; height:387px;margin:0px;">
+
+<p0> Axum child care center is found in Axum city, Tabia kindaya, ketena 6.
+ it was founded in 1973 to help peoples in need. Based on the manual metbfrombtje 
+ organizatoon, xhildrenbqho lost either of
+  their parents are <b>eligible</b> to join the orphanage.
+  it is now improving the liv3s of many orphan3d kids working for their bright future. Earlerly, people were applying manually 
+  but we soon developed an online form in which families can apply their form online and 
+  check qhetherbtjeir kids are eligble for the 
+  year recruitement. if you understand it
+  <a href="Forms.html">Apply here</a> and try your opportunity now.
+  <p33>The following are some of the key denotors to our center.</p33>
+
+<div class="city">
+  <h2>Ritamaley</h2>
+  <p5>Ritamaley  is the the bigest suporter org in Europe. 
+  It has been helpeing us for about 23 years and still making its support.</p5>
+</div>
+
+<div class="city">
+  <h2>Ceca</h2>
+  <p33> is the sexond most denotor to our center.hdhjdbd
+  bejdodjdu3h2oevdi2vdi3vrjev
+  rjjru3hu2oegri3b4iti3oe9avhrhro2hdjr2knjszvwlvr</p33>
+</div>
+
+<div class="city">
+  <h2>Greece</h2>
+  <p33>is the first organization to accept our request for dwnorion.</p33>
+</div>
+
+
+<p1>    <b>  __________   ____________________     _____</b></p1><br>
+<p2> <a href ="updates.html" > click here for Updates.</a></p2><br>
+
+
+<p3> Galeries</p3> <br>
+<li> should you want to visit some photoes? Click on the first picture, it will take you through  various picture composition</li>
+
+<a href="Gallery.html">
+  <img src="photoes/funyKids.jpg" alt="FunnyBoy" style="width:100px;height:100px;">
+</a>
+
+ 
+ <img src="photoes/hall.jpg" alt="CoverPhoto"
+ style="width:100px; height:100px;"><br><br>
+ 
+ 
+ <aside>
+ <p33>ቆናጁ ደቂ <span class="note"> ቅ/ያሬድ</span> ቆልዑ, ኣሸንዳ 2012።
+ ቡዙሕ ተዛመድቲ ምስልታት ንምርኣይ ኣብታ ናይ መጀመርያ ምስሊ ክሊክ ግበር</p33>
+ </aside>
+ 
+ <img src="photoes/culture.jpg" alt="CoverPhoto"
+ style="width:252px; height:320px;">
+ 
+ <p33>One can find more detail in the following links</p33>
+
+<ul>
+  <li><a href="SVGLogo.html">Home</a></li>
+  <li><a href="history.html">History</a></li>
+  <li><a href="contactus.html">Contact Us</a></li>
+  <li><a href="about">About</a></li>
+</ul>
+<aside1>
+<p10> our charity organization is based on peoples volunteer and humane 
+tendwncy to help children in need. our denorors and supports acros the globe van contact 
+us through these link addresses.</p10><br><br>
+
+</aside1>
+
+
+<p19> ማእከልና ማእከል መሐብሐቢ ህፃዉንቲ ቅ/ያሬድ ንሓደሽቲ ዝኣትዉ
+ህፃዉንቲ ምልመላ ዝበለፀ ንምግባር ዘበናዊ ቴክኖሎጂ ብምጥቃም
+ወለዶም ብኣካል ናብ እቲ ድርጅትና ምምፃእ እንተየድለዮም ኣብ ዘለዉዎ ቦታ ኮይኖም 
+ኣፕሊኬሽኖም ክውድኡ ይክእሉ እዮም። ኣብዚ ቀፂሉ ዘሎ ሊንክ
+ብምጥቃም ናብ ኣፕሊኬሽን ፎርም ይኪዱ።</p19><br>
+<a href="Forms.html" > ሕጂ ተመዝገብ
+</a><br><br>
+<p30> <b>________________________________________________<b></p30><br>
+
+<a href="default.asp">
+  <img src="photoes/you.png" 
+  style="width:50px;height:50px;">
+</a>
+<a href="whattsapp.asp">
+  <img src="photoes/tg.jpg" 
+  style="width:40px;height:40px;float:left;">
+</a>
+<a href="default.asp">
+  <img src="photoes/Fb.png" 
+  style="width:47px;height:46px;color:blue;">
+</a>
+<a href="default.asp">
+  <img src="photoes/ins.jpg" 
+  style="width:45px;height:46px;">
+</a>
+<a href="default.asp">
+  <img src="photoes/gm.png" 
+  style="width:40px;height:40px;">
+</a>
+<a href="default.asp">
+  <img src="photoes/tw.png" 
+  style="width:42px;height:43px;">
+</a>
+<a href="default.asp">
+  <img src="photoes/wt.jpg" 
+  style="width:42px;height:43px;">
+</a>
+<br>
+<p25> our channels and pages</p25>
+
+</body>
+</html>
